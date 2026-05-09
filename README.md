@@ -39,14 +39,12 @@ If you clone this repository, you must run the HTML file through a local web ser
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
-   
-```
+   ```
 2. Open the cloned folder in **Visual Studio Code**.
 3. Ensure you have the **Live Server** extension (by Ritwick Dey) installed in VS Code.
 4. Open the `main.html` file.
 5. Click **Go Live** in the bottom right corner of the VS Code window to launch the local development environment and bypass browser CORS restrictions.
 
----
 
 ## 🔮 Phase 2 Roadmap
 
