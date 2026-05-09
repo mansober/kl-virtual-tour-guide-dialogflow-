@@ -1,0 +1,36 @@
+Location: Petronas Twin Towers (KLCC)
+Description: Iconic 88-story twin skyscrapers in the heart of Kuala Lumpur. 
+Attractions: The double-decker Skybridge on the 41st floor, Observation Deck on the 86th floor, and Suria KLCC shopping mall at the base.
+Operating Hours: Tuesday to Sunday, 9:00 AM - 9:00 PM. Closed on Mondays.
+Best time to visit: Evening to see the towers illuminated.
+
+Location: Batu Caves
+Description: A massive limestone hill featuring a series of caves and Hindu temples, located just outside the city center.
+Attractions: The steep climb of 272 colorful steps, the towering golden statue of Lord Murugan, and the main Temple Cave.
+Operating Hours: Daily, 7:00 AM - 9:00 PM.
+Entry Fee: Free for the main temple cave.
+
+Location: Kuala Lumpur Tower (KL Tower)
+Description: A communications tower offering one of the highest viewpoints in the city.
+Attractions: Indoor Observation Deck, open-air Sky Deck, and the glass-bottomed Sky Box.
+Operating Hours: Daily, 9:00 AM - 10:00 PM.
+
+Location: Dataran Merdeka (Independence Square)
+Description: The historical square where the Malayan flag was first hoisted in 1957.
+Attractions: Sultan Abdul Samad Building architecture, the 95-meter flagpole, and the nearby Kuala Lumpur City Gallery.
+
+Location: Bukit Bintang
+Description: The main shopping and entertainment district in Kuala Lumpur.
+Attractions: Numerous shopping malls including Pavilion KL, Lot 10, and Berjaya Times Square. The area is also close to Jalan Alor Food Street, which is famous for its local dining experience.
+
+Location: Central Market (Pasar Seni)
+Description: A historic landmark built in 1888 that started as a humble wet market. 
+Attractions: A bustling center offering local crafts, textiles, souvenirs, and a unique cultural immersion. It is located right next to Kasturi Walk.
+
+Location: Perdana Botanical Gardens
+Description: A peaceful 91-hectare park located in the heart of the city.
+Attractions: Features a large artificial lake, the Orchid and Hibiscus Gardens, a palm garden, and a herb and spice garden.
+
+Location: Thean Hou Temple
+Description: One of the largest and oldest temples in Southeast Asia, offering a retreat from the busy city life.
+Attractions: An octagonal hall with Buddhist pagodas, a Chinese herb garden, a wishing well, a turtle pond, and sculptures of the 12 Chinese zodiac signs.
